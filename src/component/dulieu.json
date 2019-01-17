@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "PacificRim",
+        "phone": "0123456",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "IronMan",
+        "phone": "0154875",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "JohnWick",
+        "phone": "09345456",
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "Logan",
+        "phone": "04521842",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Nick",
+        "phone": "02553486",
+        "permission": 2
+    },
+    {
+        "id": 6,
+        "name": "Ximmy",
+        "phone": "01225487",
+        "permission": 1
+    },
+    {
+        "id": 7,
+        "name": "PacificRim",
+        "phone": "01225487123123123",
+        "permission": 1
+    }
+]
